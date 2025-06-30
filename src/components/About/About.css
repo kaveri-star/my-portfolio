@@ -1,0 +1,40 @@
+.about {
+  padding: 2rem;
+
+  text-align: center;
+}
+
+.about-title{
+  font-size: 35px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.content{
+  font-size: 25px;
+  font-family: 'Roboto';
+  margin-top: 15px;
+  line-height: 1.5;
+}
+
+.skills-title{
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.skills {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.skills li {
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-bottom: 5px;
+}
